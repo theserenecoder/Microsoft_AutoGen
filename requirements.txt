@@ -5,3 +5,4 @@ dotenv
 autogen-ext[http-tool]
 langchain-community
 langchain
+pydantic
