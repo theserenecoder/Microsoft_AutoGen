@@ -6,3 +6,5 @@ autogen-ext[http-tool]
 langchain-community
 langchain
 pydantic
+docker
+autogen-ext[docker]
