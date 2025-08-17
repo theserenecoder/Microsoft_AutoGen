@@ -8,3 +8,6 @@ langchain
 pydantic
 docker
 autogen-ext[docker]
+autogen-ext[mem0]
+autogen-ext[mem0-local]
+autogen-ext[mcp]
